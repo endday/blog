@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="372px" preserveAspectRatio="none" style="width:253px;height:372px;" version="1.1" viewBox="0 0 253 372" width="253px" zoomAndPan="magnify"><defs><filter height="300%" id="f7kjmai713fgl" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><ellipse cx="126" cy="20" fill="#000000" filter="url(#f7kjmai713fgl)" rx="10" ry="10" style="stroke: none; stroke-width: 1.0;"/><rect fill="#FEFECE" filter="url(#f7kjmai713fgl)" height="33.7988" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="60" x="96" y="50"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="40" x="106" y="71.2559">注册sw</text><rect fill="#FEFECE" filter="url(#f7kjmai713fgl)" height="33.7988" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="60" x="96" y="103.7988"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="40" x="106" y="125.0547">安装sw</text><polygon fill="#FEFECE" filter="url(#f7kjmai713fgl)" points="74,157.5977,178,157.5977,190,169.5977,178,181.5977,74,181.5977,62,169.5977,74,157.5977" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="104" x="74" y="173.5911">是否有正在激活的sw</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="22" x="40" y="167.2666">没有</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="11" x="190" y="167.2666">有</text><rect fill="#FEFECE" filter="url(#f7kjmai713fgl)" height="33.7988" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="84" x="10" y="191.5977"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="64" x="20" y="212.8535">激活新的sw</text><rect fill="#FEFECE" filter="url(#f7kjmai713fgl)" height="33.7988" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="84" x="158" y="191.5977"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="64" x="168" y="212.8535">旧sw激活中</text><rect fill="#FEFECE" filter="url(#f7kjmai713fgl)" height="33.7988" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="84" x="158" y="245.3965"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="64" x="168" y="266.6523">新sw等待中</text><ellipse cx="200" cy="309.1953" fill="#FFFFFF" filter="url(#f7kjmai713fgl)" rx="10" ry="10" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 2.5;" x1="193.8128" x2="206.1872" y1="303.0081" y2="315.3825"/><line style="stroke: #000000; stroke-width: 2.5;" x1="206.1872" x2="193.8128" y1="303.0081" y2="315.3825"/><ellipse cx="126" cy="350.1953" fill="#FFFFFF" filter="url(#f7kjmai713fgl)" rx="11" ry="11" style="stroke: #000000; stroke-width: 1.0;"/><ellipse cx="126" cy="350.1953" fill="#000000" rx="6" ry="6" style="stroke: #7F7F7F; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="126" x2="126" y1="30" y2="50"/><polygon fill="#A80036" points="122,40,126,50,130,40,126,44" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="126" x2="126" y1="83.7988" y2="103.7988"/><polygon fill="#A80036" points="122,93.7988,126,103.7988,130,93.7988,126,97.7988" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="200" x2="200" y1="225.3965" y2="245.3965"/><polygon fill="#A80036" points="196,235.3965,200,245.3965,204,235.3965,200,239.3965" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="200" x2="200" y1="279.1953" y2="299.1953"/><polygon fill="#A80036" points="196,289.1953,200,299.1953,204,289.1953,200,293.1953" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="62" x2="52" y1="169.5977" y2="169.5977"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="52" x2="52" y1="169.5977" y2="191.5977"/><polygon fill="#A80036" points="48,181.5977,52,191.5977,56,181.5977,52,185.5977" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="190" x2="200" y1="169.5977" y2="169.5977"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="200" x2="200" y1="169.5977" y2="191.5977"/><polygon fill="#A80036" points="196,181.5977,200,191.5977,204,181.5977,200,185.5977" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="52" x2="52" y1="225.3965" y2="324.1953"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="52" x2="126" y1="324.1953" y2="324.1953"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="126" x2="126" y1="324.1953" y2="339.1953"/><polygon fill="#A80036" points="122,329.1953,126,339.1953,130,329.1953,126,333.1953" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="126" x2="126" y1="137.5977" y2="157.5977"/><polygon fill="#A80036" points="122,147.5977,126,157.5977,130,147.5977,126,151.5977" style="stroke: #A80036; stroke-width: 1.0;"/><!--
+@startuml
+
+start
+
+:注册sw;
+
+:安装sw;
+
+if (是否有正在激活的sw) then (没有)
+  :激活新的sw;
+else (有)
+:旧sw激活中;
+:新sw等待中;
+  end
+endif
+
+stop
+
+@enduml
+
+PlantUML version 1.2019.03(Sun Mar 10 19:04:44 CST 2019)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 1.8.0_161-b14
+Operating System: Linux
+OS Version: 3.10.0-327.22.2.el7.x86_64
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
